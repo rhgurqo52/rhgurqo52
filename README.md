@@ -49,5 +49,5 @@
 <br>
 <br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rhgurqo52&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rhgurqo52&theme=prussian&show_icons=true&hide=issues)
 </div>
