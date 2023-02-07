@@ -14,6 +14,8 @@
 🎫Certificated Korea IT Academy in Seoul<br>
 📧Email : rhgurqo52@naver.com<br>
 
+<br>
+
 <h2>💻Tech Stack</h2>
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) 
@@ -26,6 +28,9 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
 ![JQuery](https://img.shields.io/badge/jquery-0769AD.svg?style=flat&logo=jquery&logoColor=white)
 ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=plastic&logo=Thymeleaf&logoColor=white)
+
+<br>
+
 <h2>🛠Tools</h2>
 
 ![GITHUB](https://img.shields.io/badge/github-181717.svg?style=flat&logo=github&logoColor=white)
