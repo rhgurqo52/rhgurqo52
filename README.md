@@ -14,22 +14,19 @@
 🎫Certificated Korea IT Academy in Seoul<br>
 📧Email : rhgurqo52@naver.com<br>
 
-<h2>🚀Back-end🚀</h2>
+<h2>💻Tech Stack</h2>
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3776AB.svg?style=flat&logo=python&logoColor=white) 
 ![Spring](https://img.shields.io/badge/spring-6DB33F.svg?style=flat&logo=spring&logoColor=white) <br>
 ![ORACLE](https://img.shields.io/badge/oracle-F80000.svg?style=flat&logo=oracle&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) 
-
-<h2>🚀Front-end🚀</h2>
-
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) <br>
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/css-1572B6.svg?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
 ![JQuery](https://img.shields.io/badge/jquery-0769AD.svg?style=flat&logo=jquery&logoColor=white)
 ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=plastic&logo=Thymeleaf&logoColor=white)
-<h2>🚀Tools🚀</h2>
+<h2>🛠Tools</h2>
 
 ![GITHUB](https://img.shields.io/badge/github-181717.svg?style=flat&logo=github&logoColor=white)
 ![GIT](https://img.shields.io/badge/git-F05032.svg?style=flat&logo=git&logoColor=white)
