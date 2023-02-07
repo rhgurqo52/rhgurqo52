@@ -50,4 +50,5 @@
 <br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rhgurqo52&theme=prussian&show_icons=true&hide=issues)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rhgurqo52&layout=compact&theme=prussian&hide=ipynb&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
 </div>
