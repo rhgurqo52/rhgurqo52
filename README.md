@@ -4,7 +4,9 @@
 <h2>👋 Hello, I'm Hyukbae! 👋 </h2>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Frhgurqo52%2Fhit-counter&count_bg=%234DD6DD&title_bg=%23BEC0C2&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 <br>
+
 안녕하세요! 배움과 성장을 좋아하는 주니어 개발자 고혁배입니다😁<br>
 "You just need to believe in yourself." <br><br>
 <img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Fcfile%2Ftistory%2F115C193A4FA4F08A04" width="50%">
