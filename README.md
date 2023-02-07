@@ -7,7 +7,7 @@
 <br>
 안녕하세요! 배움과 성장을 좋아하는 주니어 개발자 고혁배입니다😁<br>
 "You just need to believe in yourself." <br><br>
-<img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Fcfile%2Ftistory%2F115C193A4FA4F08A04.gif" width="50%">
+<img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Fcfile%2Ftistory%2F115C193A4FA4F08A04" width="50%">
 
 <h2>💫 About Me 💫</h2>
 🎓Graduated BaekSeok univ. (Kor) Chinese Language, International Trade and Business<br>
