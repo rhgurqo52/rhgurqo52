@@ -8,7 +8,7 @@
 <br>
 안녕하세요! 배움과 성장을 좋아하는 주니어 개발자 고혁배입니다😁<br>
 "You just need to believe in yourself." <br><br>
-<img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Fcfile%2Ftistory%2F115C193A4FA4F08A04" width="50%">
+<img src="[https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Fcfile%2Ftistory%2F115C193A4FA4F08A04](https://mblogthumb-phinf.pstatic.net/MjAxOTA2MDFfMjY5/MDAxNTU5MzU4ODgwNjA0.sfaOijTV7VvZsA3mhU_-cxHzbtDo5tyAJTMa4GOFNRYg.uzJRHPlVvr_bDvnBgWP0V3XqlOhCJHIBOv0D-j9e0Bkg.GIF.yellowouk2/1559140852203.GIF?type=w800)" width="50%">
 
 <br>
 
