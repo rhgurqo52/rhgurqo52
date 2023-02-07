@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&&color=0:EEFF00,100:a82da8&height=200&width=100%&section=header&text=ko_1.53kg&fontSize=60)<br>
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&animation=twinkling&text=ko_1.53kg&fontAlign=25&fontAlignY=40&fontSize=50&fontColor=00cc99&color=0:0091E0,100:0079bb)<br>
 <h2>👋 Hello, I'm Hyukbae! 👋 </h2>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Frhgurqo52%2Fhit-counter&count_bg=%234DD6DD&title_bg=%23BEC0C2&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
